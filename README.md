@@ -1,6 +1,7 @@
 # captcha
 
 A captcha solver using CNN and transformer.
+Notice that this model still has room for improvement. 
 
 
 ## reference
